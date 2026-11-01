@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+sentence-transformers
+joblib
+matplotlib
+seaborn
+pytest
+fastapi
+uvicorn[standard]
